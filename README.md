@@ -1,7 +1,7 @@
 ## Olá! Eu sou Eduardo Hoeft 👋
 
-- 🧑🏼‍🎓 Técnico Em Desenvolvimento De Sistemas / IFSC - Rau, Jaraguá do Sul, SC.
-- 🌱 Estudante De Engenharia De Software.
+- 🧑🏼‍🎓 Técnico Em Desenvolvimento De Sistemas / IFSC - Rau, Jaraguá Do Sul - SC.
+- 🌱 Estudante De Engenharia De Software / CatólicaSC - Rau, Jaraguá Do Sul - SC.
 - 💻 Desenvolvedor Jr.
 
   <div>
